@@ -11,7 +11,7 @@
  "clue": "Gunakan pola [今日 + は + kata sifat + ですね] untuk mengomentari cuaca."
 },
 {
- "fragments": ["起きます", "に", "毎日", "七時"],
+ "fragments": ["起きます", "に", "毎日", "８時"],
  "correctOrder": [2, 3, 1, 0],
  "clue": "Gunakan pola [毎日 + waktu + に + kata kerja] untuk menyatakan kebiasaan harian."
 },
