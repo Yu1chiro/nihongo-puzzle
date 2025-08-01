@@ -6,22 +6,22 @@
  "clue": "Gunakan pola [私 + は + kata benda + です] untuk memperkenalkan diri."
 },
 {
- "fragments": ["暑い", "今日", "ですね", "は"],
+ "fragments": ["あつい", "今日", "ですね", "は"],
  "correctOrder": [1, 3, 0, 2],
  "clue": "Gunakan pola [今日 + は + kata sifat + ですね] untuk mengomentari cuaca."
 },
 {
- "fragments": ["起きます", "に", "毎日", "８時"],
+ "fragments": ["おきます", "に", "毎日", "８時"],
  "correctOrder": [2, 3, 1, 0],
  "clue": "Gunakan pola [毎日 + waktu + に + kata kerja] untuk menyatakan kebiasaan harian."
 },
 {
- "fragments": ["あります", "銀行", "駅", "が", "の", "前", "に"],
+ "fragments": ["あります", "ほんや", "駅", "が", "の", "前", "に"],
  "correctOrder": [2, 4, 5, 6, 1, 3, 0],
  "clue": "Gunakan pola [場所 + の + 前 + に + benda + が + あります] untuk menyatakan keberadaan."
 },
 {
- "fragments": ["行きます", "に", "来週", "日本"],
+ "fragments": ["行きます", "に", "今月", "日本"],
  "correctOrder": [2, 3, 1, 0],
  "clue": "Gunakan pola [waktu + tempat + に + 行きます] untuk menyatakan rencana pergi."
 },
@@ -46,9 +46,14 @@
  "clue": "Gunakan pola [benda + を + 勉強 + して + います] untuk menyatakan aktivitas berkelanjutan."
 },
 {
- "fragments": ["思います", "雨", "と", "が", "降る", "明日"],
+ "fragments": ["思います", "雨", "と", "が", "ふる", "明日"],
  "correctOrder": [5, 1, 3, 4, 2, 0],
  "clue": "Gunakan pola [waktu + benda + が + kata kerja + と + 思います] untuk menyatakan pendapat."
+},
+{
+ "fragments": ["私", "は", "友達", "と", "海", "で","つり","を","します"],
+ "correctOrder": [0,1,2,3,4,5,6,7,8],
+ "clue": "私は～"
 }
 ],
 "level2": [
